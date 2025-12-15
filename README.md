@@ -1,5 +1,6 @@
 # kidsworksheet
 
+It's a project for teaching kids the animals' by first testing them to choose the proper picture of an animal for the name of the animal that they saw in the beginning. After choosing pictures for all the names of the animals here they check their choices.
 
 ## Getting Started
 
@@ -13,4 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
